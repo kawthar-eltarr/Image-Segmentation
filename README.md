@@ -19,3 +19,5 @@ The U-Net architecture consists of two main parts :
 
 https://www.youtube.com/watch?v=NhdzGfB1q74&t=514s
 https://towardsdatascience.com/understanding-semantic-segmentation-with-unet-6be4f42d4b47
+
+Trying this Kaggle competition : https://www.kaggle.com/c/tgs-salt-identification-challenge/overview
